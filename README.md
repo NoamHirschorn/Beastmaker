@@ -20,7 +20,7 @@ To play a game:
 - `p` for **points-based scoring**
 - `b` for **battle-based scoring**
 
-### `<player_1>` & `<player_2>`:
+### `<player_A>` & `<player_B>`:
 - `s` for **Static AI**
 - `m` for **Monte Carlo AI**
 - `h` for **Human player**
