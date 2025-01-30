@@ -1,0 +1,2104 @@
+{
+    "cards": {
+        "card1": {
+            "name": "Card 1",
+            "total_in_deck": 3,
+            "variations": {
+                "1": {
+                    "name": "Ghoatore",
+                    "stats": {
+                        "Head": 53,
+                        "Heart": 75,
+                        "Temper": 47,
+                        "Skin": 58,
+                        "Speed": 67,
+                        "Strength": 39,
+                        "Special": 34
+                    }
+                },
+                "2": {
+                    "name": "Bunarupa",
+                    "stats": {
+                        "Head": 45,
+                        "Heart": 66,
+                        "Temper": 42,
+                        "Skin": 60,
+                        "Speed": 55,
+                        "Strength": 59,
+                        "Special": 40
+                    }
+                },
+                "3": {
+                    "name": "Kalotl",
+                    "stats": {
+                        "Head": 43,
+                        "Heart": 67,
+                        "Temper": 46,
+                        "Skin": 49,
+                        "Speed": 59,
+                        "Strength": 66,
+                        "Special": 34
+                    }
+                }
+            }
+        },
+        "card2": {
+            "name": "Card 2",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Digorog",
+                    "stats": {
+                        "Head": 34,
+                        "Heart": 56,
+                        "Temper": 50,
+                        "Skin": 68,
+                        "Speed": 63,
+                        "Strength": 56,
+                        "Special": 50
+                    }
+                },
+                "2": {
+                    "name": "Boranod",
+                    "stats": {
+                        "Head": 48,
+                        "Heart": 87,
+                        "Temper": 50,
+                        "Skin": 33,
+                        "Speed": 42,
+                        "Strength": 51,
+                        "Special": 37
+                    }
+                },
+                "3": {
+                    "name": "Giragoo",
+                    "stats": {
+                        "Head": 35,
+                        "Heart": 65,
+                        "Temper": 44,
+                        "Skin": 70,
+                        "Speed": 62,
+                        "Strength": 45,
+                        "Special": 39
+                    }
+                }
+            }
+        },
+        "card3": {
+            "name": "Card 3",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Watling",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 63,
+                        "Temper": 54,
+                        "Skin": 59,
+                        "Speed": 66,
+                        "Strength": 43,
+                        "Special": 37
+                    }
+                },
+                "2": {
+                    "name": "Aminthar",
+                    "stats": {
+                        "Head": 43,
+                        "Heart": 50,
+                        "Temper": 52,
+                        "Skin": 53,
+                        "Speed": 42,
+                        "Strength": 72,
+                        "Special": 52
+                    }
+                },
+                "3": {
+                    "name": "Racksail",
+                    "stats": {
+                        "Head": 44,
+                        "Heart": 75,
+                        "Temper": 61,
+                        "Skin": 59,
+                        "Speed": 56,
+                        "Strength": 70,
+                        "Special": 42
+                    }
+                }
+            }
+        },
+        "card4": {
+            "name": "Card 4",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Jornwall",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 44,
+                        "Temper": 29,
+                        "Skin": 58,
+                        "Speed": 60,
+                        "Strength": 59,
+                        "Special": 45
+                    }
+                },
+                "2": {
+                    "name": "Pridon",
+                    "stats": {
+                        "Head": 38,
+                        "Heart": 67,
+                        "Temper": 58,
+                        "Skin": 62,
+                        "Speed": 60,
+                        "Strength": 59,
+                        "Special": 51
+                    }
+                },
+                "3": {
+                    "name": "Rythmax",
+                    "stats": {
+                        "Head": 47,
+                        "Heart": 72,
+                        "Temper": 46,
+                        "Skin": 35,
+                        "Speed": 49,
+                        "Strength": 65,
+                        "Special": 40
+                    }
+                }
+            }
+        },
+        "card5": {
+            "name": "Card 5",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Jurtlett",
+                    "stats": {
+                        "Head": 59,
+                        "Heart": 70,
+                        "Temper": 53,
+                        "Skin": 74,
+                        "Speed": 46,
+                        "Strength": 26,
+                        "Special": 40
+                    }
+                },
+                "2": {
+                    "name": "Morosses",
+                    "stats": {
+                        "Head": 56,
+                        "Heart": 50,
+                        "Temper": 41,
+                        "Skin": 65,
+                        "Speed": 20,
+                        "Strength": 42,
+                        "Special": 25
+                    }
+                },
+                "3": {
+                    "name": "Feirballoo",
+                    "stats": {
+                        "Head": 51,
+                        "Heart": 74,
+                        "Temper": 40,
+                        "Skin": 78,
+                        "Speed": 27,
+                        "Strength": 65,
+                        "Special": 33
+                    }
+                }
+            }
+        },
+        "card6": {
+            "name": "Card 6",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Bontasaur",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 60,
+                        "Temper": 39,
+                        "Skin": 40,
+                        "Speed": 39,
+                        "Strength": 61,
+                        "Special": 41
+                    }
+                },
+                "2": {
+                    "name": "Hrothmar",
+                    "stats": {
+                        "Head": 56,
+                        "Heart": 55,
+                        "Temper": 36,
+                        "Skin": 60,
+                        "Speed": 49,
+                        "Strength": 59,
+                        "Special": 40
+                    }
+                },
+                "3": {
+                    "name": "Sylpinyette",
+                    "stats": {
+                        "Head": 61,
+                        "Heart": 55,
+                        "Temper": 50,
+                        "Skin": 51,
+                        "Speed": 43,
+                        "Strength": 40,
+                        "Special": 26
+                    }
+                }
+            }
+        },
+        "card7": {
+            "name": "Card 7",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Ringont",
+                    "stats": {
+                        "Head": 45,
+                        "Heart": 55,
+                        "Temper": 37,
+                        "Skin": 36,
+                        "Speed": 46,
+                        "Strength": 61,
+                        "Special": 42
+                    }
+                },
+                "2": {
+                    "name": "Cornswallow",
+                    "stats": {
+                        "Head": 38,
+                        "Heart": 66,
+                        "Temper": 54,
+                        "Skin": 67,
+                        "Speed": 44,
+                        "Strength": 64,
+                        "Special": 40
+                    }
+                },
+                "3": {
+                    "name": "Grieferant",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 64,
+                        "Temper": 46,
+                        "Skin": 62,
+                        "Speed": 48,
+                        "Strength": 64,
+                        "Special": 36
+                    }
+                }
+            }
+        },
+        "card8": {
+            "name": "Card 8",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Longshadow",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 64,
+                        "Temper": 31,
+                        "Skin": 46,
+                        "Speed": 51,
+                        "Strength": 36,
+                        "Special": 44
+                    }
+                },
+                "2": {
+                    "name": "Gonlagee",
+                    "stats": {
+                        "Head": 48,
+                        "Heart": 62,
+                        "Temper": 46,
+                        "Skin": 53,
+                        "Speed": 37,
+                        "Strength": 51,
+                        "Special": 47
+                    }
+                },
+                "3": {
+                    "name": "Camophant",
+                    "stats": {
+                        "Head": 51,
+                        "Heart": 55,
+                        "Temper": 52,
+                        "Skin": 72,
+                        "Speed": 47,
+                        "Strength": 56,
+                        "Special": 28
+                    }
+                }
+            }
+        },
+        "card9": {
+            "name": "Card 9",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Rackajack",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 28,
+                        "Temper": 30,
+                        "Skin": 46,
+                        "Speed": 62,
+                        "Strength": 67,
+                        "Special": 46
+                    }
+                },
+                "2": {
+                    "name": "Tingara",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 84,
+                        "Temper": 48,
+                        "Skin": 59,
+                        "Speed": 66,
+                        "Strength": 40,
+                        "Special": 39
+                    }
+                },
+                "3": {
+                    "name": "Wylex",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 63,
+                        "Temper": 44,
+                        "Skin": 69,
+                        "Speed": 47,
+                        "Strength": 44,
+                        "Special": 44
+                    }
+                }
+            }
+        },
+        "card10": {
+            "name": "Card 10",
+            "total_in_deck": 1,
+            "variations": {
+                "1": {
+                    "name": "Phyraunt",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 60,
+                        "Temper": 49,
+                        "Skin": 52,
+                        "Speed": 39,
+                        "Strength": 39,
+                        "Special": 31
+                    }
+                },
+                "2": {
+                    "name": "Twiveler",
+                    "stats": {
+                        "Head": 48,
+                        "Heart": 62,
+                        "Temper": 55,
+                        "Skin": 44,
+                        "Speed": 51,
+                        "Strength": 59,
+                        "Special": 35
+                    }
+                },
+                "3": {
+                    "name": "Werdent",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 17,
+                        "Temper": 41,
+                        "Skin": 53,
+                        "Speed": 47,
+                        "Strength": 62,
+                        "Special": 46
+                    }
+                }
+            }
+        },
+        "card11": {
+            "name": "Card 11",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Grimarole",
+                    "stats": {
+                        "Head": 59,
+                        "Heart": 15,
+                        "Temper": 51,
+                        "Skin": 76,
+                        "Speed": 35,
+                        "Strength": 73,
+                        "Special": 40
+                    }
+                },
+                "2": {
+                    "name": "Lollipunt",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 57,
+                        "Temper": 49,
+                        "Skin": 59,
+                        "Speed": 59,
+                        "Strength": 51,
+                        "Special": 53
+                    }
+                },
+                "3": {
+                    "name": "Jambunger",
+                    "stats": {
+                        "Head": 53,
+                        "Heart": 58,
+                        "Temper": 62,
+                        "Skin": 57,
+                        "Speed": 36,
+                        "Strength": 56,
+                        "Special": 49
+                    }
+                }
+            }
+        },
+        "card12": {
+            "name": "Card 12",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Rotroller",
+                    "stats": {
+                        "Head": 44,
+                        "Heart": 51,
+                        "Temper": 42,
+                        "Skin": 75,
+                        "Speed": 54,
+                        "Strength": 45,
+                        "Special": 35
+                    }
+                },
+                "2": {
+                    "name": "Klabatha",
+                    "stats": {
+                        "Head": 49,
+                        "Heart": 47,
+                        "Temper": 28,
+                        "Skin": 51,
+                        "Speed": 49,
+                        "Strength": 53,
+                        "Special": 51
+                    }
+                },
+                "3": {
+                    "name": "Xyrex",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 76,
+                        "Temper": 35,
+                        "Skin": 67,
+                        "Speed": 45,
+                        "Strength": 49,
+                        "Special": 35
+                    }
+                }
+            }
+        },
+        "card13": {
+            "name": "Card 13",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Portatha",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 49,
+                        "Temper": 52,
+                        "Skin": 66,
+                        "Speed": 60,
+                        "Strength": 62,
+                        "Special": 32
+                    }
+                },
+                "2": {
+                    "name": "Whoolimax",
+                    "stats": {
+                        "Head": 34,
+                        "Heart": 57,
+                        "Temper": 44,
+                        "Skin": 69,
+                        "Speed": 51,
+                        "Strength": 50,
+                        "Special": 48
+                    }
+                },
+                "3": {
+                    "name": "Oxcantrous",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 80,
+                        "Temper": 38,
+                        "Skin": 58,
+                        "Speed": 50,
+                        "Strength": 77,
+                        "Special": 42
+                    }
+                }
+            }
+        },
+        "card14": {
+            "name": "Card 14",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Banjamee",
+                    "stats": {
+                        "Head": 39,
+                        "Heart": 75,
+                        "Temper": 46,
+                        "Skin": 80,
+                        "Speed": 43,
+                        "Strength": 61,
+                        "Special": 50
+                    }
+                },
+                "2": {
+                    "name": "Droiling",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 58,
+                        "Temper": 52,
+                        "Skin": 70,
+                        "Speed": 48,
+                        "Strength": 48,
+                        "Special": 39
+                    }
+                },
+                "3": {
+                    "name": "Toothjabber",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 80,
+                        "Temper": 49,
+                        "Skin": 59,
+                        "Speed": 52,
+                        "Strength": 49,
+                        "Special": 41
+                    }
+                }
+            }
+        },
+        "card15": {
+            "name": "Card 15",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Wrapjawler",
+                    "stats": {
+                        "Head": 49,
+                        "Heart": 49,
+                        "Temper": 45,
+                        "Skin": 49,
+                        "Speed": 44,
+                        "Strength": 58,
+                        "Special": 38
+                    }
+                },
+                "2": {
+                    "name": "Sinfain",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 53,
+                        "Temper": 42,
+                        "Skin": 67,
+                        "Speed": 56,
+                        "Strength": 58,
+                        "Special": 52
+                    }
+                },
+                "3": {
+                    "name": "Lombtopper",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 48,
+                        "Temper": 49,
+                        "Skin": 61,
+                        "Speed": 39,
+                        "Strength": 77,
+                        "Special": 30
+                    }
+                }
+            }
+        },
+        "card16": {
+            "name": "Card 16",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Grassnabber",
+                    "stats": {
+                        "Head": 44,
+                        "Heart": 43,
+                        "Temper": 41,
+                        "Skin": 64,
+                        "Speed": 53,
+                        "Strength": 68,
+                        "Special": 42
+                    }
+                },
+                "2": {
+                    "name": "Mylenix",
+                    "stats": {
+                        "Head": 53,
+                        "Heart": 61,
+                        "Temper": 41,
+                        "Skin": 57,
+                        "Speed": 58,
+                        "Strength": 79,
+                        "Special": 31
+                    }
+                },
+                "3": {
+                    "name": "Namiji",
+                    "stats": {
+                        "Head": 48,
+                        "Heart": 81,
+                        "Temper": 47,
+                        "Skin": 55,
+                        "Speed": 49,
+                        "Strength": 47,
+                        "Special": 33
+                    }
+                }
+            }
+        },
+        "card17": {
+            "name": "Card 17",
+            "total_in_deck": 3,
+            "variations": {
+                "1": {
+                    "name": "Trompoola",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 61,
+                        "Temper": 42,
+                        "Skin": 65,
+                        "Speed": 67,
+                        "Strength": 52,
+                        "Special": 40
+                    }
+                },
+                "2": {
+                    "name": "Whishtail",
+                    "stats": {
+                        "Head": 51,
+                        "Heart": 76,
+                        "Temper": 40,
+                        "Skin": 58,
+                        "Speed": 40,
+                        "Strength": 59,
+                        "Special": 44
+                    }
+                },
+                "3": {
+                    "name": "Plinyx",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 73,
+                        "Temper": 53,
+                        "Skin": 55,
+                        "Speed": 50,
+                        "Strength": 61,
+                        "Special": 43
+                    }
+                }
+            }
+        },
+        "card18": {
+            "name": "Card 18",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Showrider",
+                    "stats": {
+                        "Head": 33,
+                        "Heart": 43,
+                        "Temper": 49,
+                        "Skin": 51,
+                        "Speed": 39,
+                        "Strength": 66,
+                        "Special": 48
+                    }
+                },
+                "2": {
+                    "name": "Bamiball",
+                    "stats": {
+                        "Head": 49,
+                        "Heart": 89,
+                        "Temper": 53,
+                        "Skin": 57,
+                        "Speed": 48,
+                        "Strength": 58,
+                        "Special": 37
+                    }
+                },
+                "3": {
+                    "name": "Crowth",
+                    "stats": {
+                        "Head": 34,
+                        "Heart": 67,
+                        "Temper": 45,
+                        "Skin": 55,
+                        "Speed": 42,
+                        "Strength": 57,
+                        "Special": 34
+                    }
+                }
+            }
+        },
+        "card19": {
+            "name": "Card 19",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Dravagee",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 48,
+                        "Temper": 44,
+                        "Skin": 56,
+                        "Speed": 44,
+                        "Strength": 63,
+                        "Special": 37
+                    }
+                },
+                "2": {
+                    "name": "Plompta",
+                    "stats": {
+                        "Head": 59,
+                        "Heart": 58,
+                        "Temper": 14,
+                        "Skin": 49,
+                        "Speed": 53,
+                        "Strength": 63,
+                        "Special": 41
+                    }
+                },
+                "3": {
+                    "name": "Naryla",
+                    "stats": {
+                        "Head": 45,
+                        "Heart": 32,
+                        "Temper": 38,
+                        "Skin": 76,
+                        "Speed": 53,
+                        "Strength": 54,
+                        "Special": 46
+                    }
+                }
+            }
+        },
+        "card20": {
+            "name": "Card 20",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Chordilla",
+                    "stats": {
+                        "Head": 56,
+                        "Heart": 53,
+                        "Temper": 43,
+                        "Skin": 51,
+                        "Speed": 59,
+                        "Strength": 54,
+                        "Special": 51
+                    }
+                },
+                "2": {
+                    "name": "Jungathor",
+                    "stats": {
+                        "Head": 50,
+                        "Heart": 60,
+                        "Temper": 36,
+                        "Skin": 42,
+                        "Speed": 56,
+                        "Strength": 33,
+                        "Special": 39
+                    }
+                },
+                "3": {
+                    "name": "Svenellda",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 70,
+                        "Temper": 51,
+                        "Skin": 72,
+                        "Speed": 56,
+                        "Strength": 53,
+                        "Special": 34
+                    }
+                }
+            }
+        },
+        "card21": {
+            "name": "Card 21",
+            "total_in_deck": 3,
+            "variations": {
+                "1": {
+                    "name": "Borzair",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 86,
+                        "Temper": 41,
+                        "Skin": 42,
+                        "Speed": 39,
+                        "Strength": 35,
+                        "Special": 32
+                    }
+                },
+                "2": {
+                    "name": "Murport",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 42,
+                        "Temper": 48,
+                        "Skin": 88,
+                        "Speed": 51,
+                        "Strength": 71,
+                        "Special": 31
+                    }
+                },
+                "3": {
+                    "name": "Lisasha",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 57,
+                        "Temper": 52,
+                        "Skin": 52,
+                        "Speed": 57,
+                        "Strength": 61,
+                        "Special": 34
+                    }
+                }
+            }
+        },
+        "card22": {
+            "name": "Card 22",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Rumbumble",
+                    "stats": {
+                        "Head": 52,
+                        "Heart": 47,
+                        "Temper": 49,
+                        "Skin": 66,
+                        "Speed": 46,
+                        "Strength": 51,
+                        "Special": 44
+                    }
+                },
+                "2": {
+                    "name": "Zortyex",
+                    "stats": {
+                        "Head": 35,
+                        "Heart": 53,
+                        "Temper": 45,
+                        "Skin": 51,
+                        "Speed": 57,
+                        "Strength": 29,
+                        "Special": 47
+                    }
+                },
+                "3": {
+                    "name": "Qualthanox",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 37,
+                        "Temper": 61,
+                        "Skin": 30,
+                        "Speed": 42,
+                        "Strength": 52,
+                        "Special": 46
+                    }
+                }
+            }
+        },
+        "card23": {
+            "name": "Card 23",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Binkortha",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 64,
+                        "Temper": 36,
+                        "Skin": 33,
+                        "Speed": 48,
+                        "Strength": 48,
+                        "Special": 41
+                    }
+                },
+                "2": {
+                    "name": "Pitwrothka",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 74,
+                        "Temper": 62,
+                        "Skin": 40,
+                        "Speed": 50,
+                        "Strength": 61,
+                        "Special": 47
+                    }
+                },
+                "3": {
+                    "name": "Xandria",
+                    "stats": {
+                        "Head": 56,
+                        "Heart": 71,
+                        "Temper": 62,
+                        "Skin": 54,
+                        "Speed": 36,
+                        "Strength": 60,
+                        "Special": 31
+                    }
+                }
+            }
+        },
+        "card24": {
+            "name": "Card 24",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Champandor",
+                    "stats": {
+                        "Head": 56,
+                        "Heart": 61,
+                        "Temper": 49,
+                        "Skin": 48,
+                        "Speed": 62,
+                        "Strength": 63,
+                        "Special": 36
+                    }
+                },
+                "2": {
+                    "name": "Clawcatcher",
+                    "stats": {
+                        "Head": 47,
+                        "Heart": 45,
+                        "Temper": 45,
+                        "Skin": 62,
+                        "Speed": 41,
+                        "Strength": 62,
+                        "Special": 43
+                    }
+                },
+                "3": {
+                    "name": "Mordooler",
+                    "stats": {
+                        "Head": 47,
+                        "Heart": 74,
+                        "Temper": 54,
+                        "Skin": 78,
+                        "Speed": 39,
+                        "Strength": 48,
+                        "Special": 53
+                    }
+                }
+            }
+        },
+        "card25": {
+            "name": "Card 25",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Fintasor",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 58,
+                        "Temper": 45,
+                        "Skin": 62,
+                        "Speed": 49,
+                        "Strength": 41,
+                        "Special": 48
+                    }
+                },
+                "2": {
+                    "name": "Tishitista",
+                    "stats": {
+                        "Head": 34,
+                        "Heart": 62,
+                        "Temper": 37,
+                        "Skin": 56,
+                        "Speed": 51,
+                        "Strength": 40,
+                        "Special": 36
+                    }
+                },
+                "3": {
+                    "name": "Damdamor",
+                    "stats": {
+                        "Head": 39,
+                        "Heart": 88,
+                        "Temper": 51,
+                        "Skin": 52,
+                        "Speed": 63,
+                        "Strength": 51,
+                        "Special": 42
+                    }
+                }
+            }
+        },
+        "card26": {
+            "name": "Card 26",
+            "total_in_deck": 1,
+            "variations": {
+                "1": {
+                    "name": "Lincomber",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 52,
+                        "Temper": 51,
+                        "Skin": 53,
+                        "Speed": 50,
+                        "Strength": 57,
+                        "Special": 33
+                    }
+                },
+                "2": {
+                    "name": "Wallstrutter",
+                    "stats": {
+                        "Head": 56,
+                        "Heart": 72,
+                        "Temper": 47,
+                        "Skin": 66,
+                        "Speed": 38,
+                        "Strength": 44,
+                        "Special": 40
+                    }
+                },
+                "3": {
+                    "name": "Funlaja",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 9,
+                        "Temper": 47,
+                        "Skin": 60,
+                        "Speed": 51,
+                        "Strength": 36,
+                        "Special": 37
+                    }
+                }
+            }
+        },
+        "card27": {
+            "name": "Card 27",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Manlimpa",
+                    "stats": {
+                        "Head": 32,
+                        "Heart": 83,
+                        "Temper": 52,
+                        "Skin": 43,
+                        "Speed": 56,
+                        "Strength": 55,
+                        "Special": 43
+                    }
+                },
+                "2": {
+                    "name": "Nidamia",
+                    "stats": {
+                        "Head": 53,
+                        "Heart": 72,
+                        "Temper": 35,
+                        "Skin": 59,
+                        "Speed": 53,
+                        "Strength": 56,
+                        "Special": 25
+                    }
+                },
+                "3": {
+                    "name": "Bolskote",
+                    "stats": {
+                        "Head": 52,
+                        "Heart": 47,
+                        "Temper": 56,
+                        "Skin": 44,
+                        "Speed": 44,
+                        "Strength": 65,
+                        "Special": 32
+                    }
+                }
+            }
+        },
+        "card28": {
+            "name": "Card 28",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Vinytra",
+                    "stats": {
+                        "Head": 39,
+                        "Heart": 69,
+                        "Temper": 50,
+                        "Skin": 62,
+                        "Speed": 46,
+                        "Strength": 54,
+                        "Special": 51
+                    }
+                },
+                "2": {
+                    "name": "Finxtail",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 79,
+                        "Temper": 46,
+                        "Skin": 66,
+                        "Speed": 41,
+                        "Strength": 79,
+                        "Special": 33
+                    }
+                },
+                "3": {
+                    "name": "Jorbert",
+                    "stats": {
+                        "Head": 58,
+                        "Heart": 44,
+                        "Temper": 57,
+                        "Skin": 49,
+                        "Speed": 39,
+                        "Strength": 48,
+                        "Special": 51
+                    }
+                }
+            }
+        },
+        "card29": {
+            "name": "Card 29",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Mucktrawler",
+                    "stats": {
+                        "Head": 48,
+                        "Heart": 43,
+                        "Temper": 50,
+                        "Skin": 64,
+                        "Speed": 40,
+                        "Strength": 66,
+                        "Special": 34
+                    }
+                },
+                "2": {
+                    "name": "Pilior",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 41,
+                        "Temper": 40,
+                        "Skin": 41,
+                        "Speed": 42,
+                        "Strength": 52,
+                        "Special": 32
+                    }
+                },
+                "3": {
+                    "name": "Gnawbooth",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 31,
+                        "Temper": 37,
+                        "Skin": 43,
+                        "Speed": 42,
+                        "Strength": 66,
+                        "Special": 32
+                    }
+                }
+            }
+        },
+        "card30": {
+            "name": "Card 30",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Worobi",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 68,
+                        "Temper": 48,
+                        "Skin": 42,
+                        "Speed": 46,
+                        "Strength": 65,
+                        "Special": 36
+                    }
+                },
+                "2": {
+                    "name": "Broratus",
+                    "stats": {
+                        "Head": 43,
+                        "Heart": 68,
+                        "Temper": 33,
+                        "Skin": 39,
+                        "Speed": 60,
+                        "Strength": 68,
+                        "Special": 45
+                    }
+                },
+                "3": {
+                    "name": "Minskiat",
+                    "stats": {
+                        "Head": 51,
+                        "Heart": 58,
+                        "Temper": 35,
+                        "Skin": 47,
+                        "Speed": 47,
+                        "Strength": 70,
+                        "Special": 30
+                    }
+                }
+            }
+        },
+        "card31": {
+            "name": "Card 31",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Dornjovo",
+                    "stats": {
+                        "Head": 24,
+                        "Heart": 63,
+                        "Temper": 45,
+                        "Skin": 64,
+                        "Speed": 39,
+                        "Strength": 47,
+                        "Special": 54
+                    }
+                },
+                "2": {
+                    "name": "Gongodor",
+                    "stats": {
+                        "Head": 48,
+                        "Heart": 91,
+                        "Temper": 50,
+                        "Skin": 76,
+                        "Speed": 34,
+                        "Strength": 42,
+                        "Special": 39
+                    }
+                },
+                "3": {
+                    "name": "Throatdrawer",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 70,
+                        "Temper": 26,
+                        "Skin": 49,
+                        "Speed": 68,
+                        "Strength": 58,
+                        "Special": 30
+                    }
+                }
+            }
+        },
+        "card32": {
+            "name": "Card 32",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Skontooth",
+                    "stats": {
+                        "Head": 53,
+                        "Heart": 62,
+                        "Temper": 41,
+                        "Skin": 53,
+                        "Speed": 41,
+                        "Strength": 53,
+                        "Special": 38
+                    }
+                },
+                "2": {
+                    "name": "Morobi",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 87,
+                        "Temper": 34,
+                        "Skin": 65,
+                        "Speed": 48,
+                        "Strength": 42,
+                        "Special": 34
+                    }
+                },
+                "3": {
+                    "name": "Pallungus",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 39,
+                        "Temper": 41,
+                        "Skin": 56,
+                        "Speed": 52,
+                        "Strength": 47,
+                        "Special": 40
+                    }
+                }
+            }
+        },
+        "card33": {
+            "name": "Card 33",
+            "total_in_deck": 1,
+            "variations": {
+                "1": {
+                    "name": "Tryanatha",
+                    "stats": {
+                        "Head": 39,
+                        "Heart": 41,
+                        "Temper": 46,
+                        "Skin": 49,
+                        "Speed": 46,
+                        "Strength": 73,
+                        "Special": 32
+                    }
+                },
+                "2": {
+                    "name": "Konkadoo",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 51,
+                        "Temper": 38,
+                        "Skin": 55,
+                        "Speed": 31,
+                        "Strength": 55,
+                        "Special": 43
+                    }
+                },
+                "3": {
+                    "name": "Liraska",
+                    "stats": {
+                        "Head": 21,
+                        "Heart": 77,
+                        "Temper": 42,
+                        "Skin": 38,
+                        "Speed": 39,
+                        "Strength": 59,
+                        "Special": 37
+                    }
+                }
+            }
+        },
+        "card34": {
+            "name": "Card 34",
+            "total_in_deck": 3,
+            "variations": {
+                "1": {
+                    "name": "Plonodonox",
+                    "stats": {
+                        "Head": 54,
+                        "Heart": 65,
+                        "Temper": 43,
+                        "Skin": 53,
+                        "Speed": 41,
+                        "Strength": 49,
+                        "Special": 27
+                    }
+                },
+                "2": {
+                    "name": "Jawrencher",
+                    "stats": {
+                        "Head": 40,
+                        "Heart": 69,
+                        "Temper": 54,
+                        "Skin": 35,
+                        "Speed": 72,
+                        "Strength": 83,
+                        "Special": 27
+                    }
+                },
+                "3": {
+                    "name": "Willstyrn",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 71,
+                        "Temper": 45,
+                        "Skin": 57,
+                        "Speed": 53,
+                        "Strength": 53,
+                        "Special": 39
+                    }
+                }
+            }
+        },
+        "card35": {
+            "name": "Card 35",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Flowtioc",
+                    "stats": {
+                        "Head": 33,
+                        "Heart": 61,
+                        "Temper": 39,
+                        "Skin": 65,
+                        "Speed": 46,
+                        "Strength": 75,
+                        "Special": 41
+                    }
+                },
+                "2": {
+                    "name": "Jirigithi",
+                    "stats": {
+                        "Head": 35,
+                        "Heart": 68,
+                        "Temper": 46,
+                        "Skin": 40,
+                        "Speed": 38,
+                        "Strength": 52,
+                        "Special": 32
+                    }
+                },
+                "3": {
+                    "name": "Clowsitzer",
+                    "stats": {
+                        "Head": 54,
+                        "Heart": 47,
+                        "Temper": 63,
+                        "Skin": 51,
+                        "Speed": 53,
+                        "Strength": 71,
+                        "Special": 33
+                    }
+                }
+            }
+        },
+        "card36": {
+            "name": "Card 36",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Gyranamos",
+                    "stats": {
+                        "Head": 50,
+                        "Heart": 46,
+                        "Temper": 54,
+                        "Skin": 35,
+                        "Speed": 42,
+                        "Strength": 59,
+                        "Special": 39
+                    }
+                },
+                "2": {
+                    "name": "Folkager",
+                    "stats": {
+                        "Head": 51,
+                        "Heart": 44,
+                        "Temper": 62,
+                        "Skin": 50,
+                        "Speed": 58,
+                        "Strength": 36,
+                        "Special": 33
+                    }
+                },
+                "3": {
+                    "name": "Asophrogus",
+                    "stats": {
+                        "Head": 44,
+                        "Heart": 80,
+                        "Temper": 43,
+                        "Skin": 29,
+                        "Speed": 44,
+                        "Strength": 64,
+                        "Special": 42
+                    }
+                }
+            }
+        },
+        "card37": {
+            "name": "Card 37",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Indramda",
+                    "stats": {
+                        "Head": 59,
+                        "Heart": 67,
+                        "Temper": 49,
+                        "Skin": 56,
+                        "Speed": 32,
+                        "Strength": 42,
+                        "Special": 39
+                    }
+                },
+                "2": {
+                    "name": "Ixtanigra",
+                    "stats": {
+                        "Head": 30,
+                        "Heart": 62,
+                        "Temper": 51,
+                        "Skin": 51,
+                        "Speed": 45,
+                        "Strength": 47,
+                        "Special": 49
+                    }
+                },
+                "3": {
+                    "name": "Woolsmiter",
+                    "stats": {
+                        "Head": 31,
+                        "Heart": 64,
+                        "Temper": 44,
+                        "Skin": 64,
+                        "Speed": 50,
+                        "Strength": 62,
+                        "Special": 50
+                    }
+                }
+            }
+        },
+        "card38": {
+            "name": "Card 38",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Clunkdin",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 66,
+                        "Temper": 48,
+                        "Skin": 46,
+                        "Speed": 47,
+                        "Strength": 50,
+                        "Special": 49
+                    }
+                },
+                "2": {
+                    "name": "Mollpoller",
+                    "stats": {
+                        "Head": 49,
+                        "Heart": 51,
+                        "Temper": 48,
+                        "Skin": 30,
+                        "Speed": 39,
+                        "Strength": 40,
+                        "Special": 45
+                    }
+                },
+                "3": {
+                    "name": "Rixthrusher",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 75,
+                        "Temper": 34,
+                        "Skin": 31,
+                        "Speed": 45,
+                        "Strength": 79,
+                        "Special": 30
+                    }
+                }
+            }
+        },
+        "card39": {
+            "name": "Card 39",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Jinimindar",
+                    "stats": {
+                        "Head": 45,
+                        "Heart": 50,
+                        "Temper": 57,
+                        "Skin": 52,
+                        "Speed": 40,
+                        "Strength": 54,
+                        "Special": 39
+                    }
+                },
+                "2": {
+                    "name": "Morotha",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 74,
+                        "Temper": 50,
+                        "Skin": 60,
+                        "Speed": 57,
+                        "Strength": 42,
+                        "Special": 39
+                    }
+                },
+                "3": {
+                    "name": "Klixcon",
+                    "stats": {
+                        "Head": 44,
+                        "Heart": 64,
+                        "Temper": 33,
+                        "Skin": 58,
+                        "Speed": 52,
+                        "Strength": 51,
+                        "Special": 39
+                    }
+                }
+            }
+        },
+        "card40": {
+            "name": "Card 40",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Rufingia",
+                    "stats": {
+                        "Head": 49,
+                        "Heart": 56,
+                        "Temper": 36,
+                        "Skin": 67,
+                        "Speed": 62,
+                        "Strength": 51,
+                        "Special": 42
+                    }
+                },
+                "2": {
+                    "name": "Lopendicky",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 50,
+                        "Temper": 53,
+                        "Skin": 51,
+                        "Speed": 46,
+                        "Strength": 59,
+                        "Special": 44
+                    }
+                },
+                "3": {
+                    "name": "Quintologox",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 65,
+                        "Temper": 43,
+                        "Skin": 67,
+                        "Speed": 56,
+                        "Strength": 68,
+                        "Special": 29
+                    }
+                }
+            }
+        },
+        "card41": {
+            "name": "Card 41",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Tornsooth",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 68,
+                        "Temper": 36,
+                        "Skin": 50,
+                        "Speed": 40,
+                        "Strength": 54,
+                        "Special": 38
+                    }
+                },
+                "2": {
+                    "name": "Slickthrope",
+                    "stats": {
+                        "Head": 32,
+                        "Heart": 60,
+                        "Temper": 44,
+                        "Skin": 28,
+                        "Speed": 28,
+                        "Strength": 37,
+                        "Special": 42
+                    }
+                },
+                "3": {
+                    "name": "Vonodria",
+                    "stats": {
+                        "Head": 49,
+                        "Heart": 48,
+                        "Temper": 26,
+                        "Skin": 61,
+                        "Speed": 60,
+                        "Strength": 70,
+                        "Special": 35
+                    }
+                }
+            }
+        },
+        "card42": {
+            "name": "Card 42",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Hothasima",
+                    "stats": {
+                        "Head": 47,
+                        "Heart": 43,
+                        "Temper": 41,
+                        "Skin": 70,
+                        "Speed": 60,
+                        "Strength": 74,
+                        "Special": 31
+                    }
+                },
+                "2": {
+                    "name": "Magixnemnon",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 38,
+                        "Temper": 33,
+                        "Skin": 54,
+                        "Speed": 56,
+                        "Strength": 40,
+                        "Special": 39
+                    }
+                },
+                "3": {
+                    "name": "Rebalata",
+                    "stats": {
+                        "Head": 34,
+                        "Heart": 50,
+                        "Temper": 43,
+                        "Skin": 51,
+                        "Speed": 46,
+                        "Strength": 64,
+                        "Special": 36
+                    }
+                }
+            }
+        },
+        "card43": {
+            "name": "Card 43",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Ewrumbaka",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 65,
+                        "Temper": 51,
+                        "Skin": 40,
+                        "Speed": 49,
+                        "Strength": 49,
+                        "Special": 45
+                    }
+                },
+                "2": {
+                    "name": "Tychanimo",
+                    "stats": {
+                        "Head": 37,
+                        "Heart": 48,
+                        "Temper": 27,
+                        "Skin": 40,
+                        "Speed": 46,
+                        "Strength": 61,
+                        "Special": 35
+                    }
+                },
+                "3": {
+                    "name": "Frunidia",
+                    "stats": {
+                        "Head": 36,
+                        "Heart": 51,
+                        "Temper": 34,
+                        "Skin": 56,
+                        "Speed": 47,
+                        "Strength": 54,
+                        "Special": 43
+                    }
+                }
+            }
+        },
+        "card44": {
+            "name": "Card 44",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Rushweaver",
+                    "stats": {
+                        "Head": 22,
+                        "Heart": 57,
+                        "Temper": 44,
+                        "Skin": 59,
+                        "Speed": 50,
+                        "Strength": 56,
+                        "Special": 41
+                    }
+                },
+                "2": {
+                    "name": "Pagialto",
+                    "stats": {
+                        "Head": 47,
+                        "Heart": 71,
+                        "Temper": 52,
+                        "Skin": 34,
+                        "Speed": 47,
+                        "Strength": 37,
+                        "Special": 46
+                    }
+                },
+                "3": {
+                    "name": "Mantusta",
+                    "stats": {
+                        "Head": 42,
+                        "Heart": 61,
+                        "Temper": 35,
+                        "Skin": 60,
+                        "Speed": 42,
+                        "Strength": 39,
+                        "Special": 37
+                    }
+                }
+            }
+        },
+        "card45": {
+            "name": "Card 45",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Falaquala",
+                    "stats": {
+                        "Head": 41,
+                        "Heart": 32,
+                        "Temper": 37,
+                        "Skin": 49,
+                        "Speed": 50,
+                        "Strength": 65,
+                        "Special": 46
+                    }
+                },
+                "2": {
+                    "name": "Sawbone",
+                    "stats": {
+                        "Head": 45,
+                        "Heart": 81,
+                        "Temper": 49,
+                        "Skin": 50,
+                        "Speed": 42,
+                        "Strength": 47,
+                        "Special": 31
+                    }
+                },
+                "3": {
+                    "name": "Werengeld",
+                    "stats": {
+                        "Head": 58,
+                        "Heart": 55,
+                        "Temper": 43,
+                        "Skin": 54,
+                        "Speed": 49,
+                        "Strength": 50,
+                        "Special": 46
+                    }
+                }
+            }
+        },
+        "card46": {
+            "name": "Card 46",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Wimistor",
+                    "stats": {
+                        "Head": 35,
+                        "Heart": 76,
+                        "Temper": 37,
+                        "Skin": 52,
+                        "Speed": 27,
+                        "Strength": 45,
+                        "Special": 51
+                    }
+                },
+                "2": {
+                    "name": "Kanjami",
+                    "stats": {
+                        "Head": 46,
+                        "Heart": 68,
+                        "Temper": 42,
+                        "Skin": 57,
+                        "Speed": 39,
+                        "Strength": 46,
+                        "Special": 35
+                    }
+                },
+                "3": {
+                    "name": "Glusomior",
+                    "stats": {
+                        "Head": 38,
+                        "Heart": 65,
+                        "Temper": 42,
+                        "Skin": 42,
+                        "Speed": 53,
+                        "Strength": 57,
+                        "Special": 32
+                    }
+                }
+            }
+        },
+        "card47": {
+            "name": "Card 47",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Laxidacal",
+                    "stats": {
+                        "Head": 28,
+                        "Heart": 69,
+                        "Temper": 39,
+                        "Skin": 73,
+                        "Speed": 36,
+                        "Strength": 48,
+                        "Special": 41
+                    }
+                },
+                "2": {
+                    "name": "Mistopper",
+                    "stats": {
+                        "Head": 51,
+                        "Heart": 37,
+                        "Temper": 40,
+                        "Skin": 74,
+                        "Speed": 39,
+                        "Strength": 83,
+                        "Special": 37
+                    }
+                },
+                "3": {
+                    "name": "Unthungia",
+                    "stats": {
+                        "Head": 50,
+                        "Heart": 43,
+                        "Temper": 45,
+                        "Skin": 31,
+                        "Speed": 51,
+                        "Strength": 71,
+                        "Special": 40
+                    }
+                }
+            }
+        },
+        "card48": {
+            "name": "Card 48",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Talonstrobe",
+                    "stats": {
+                        "Head": 35,
+                        "Heart": 51,
+                        "Temper": 41,
+                        "Skin": 64,
+                        "Speed": 47,
+                        "Strength": 76,
+                        "Special": 38
+                    }
+                },
+                "2": {
+                    "name": "Voromoth",
+                    "stats": {
+                        "Head": 38,
+                        "Heart": 54,
+                        "Temper": 42,
+                        "Skin": 70,
+                        "Speed": 33,
+                        "Strength": 57,
+                        "Special": 38
+                    }
+                },
+                "3": {
+                    "name": "Shintrix",
+                    "stats": {
+                        "Head": 44,
+                        "Heart": 58,
+                        "Temper": 54,
+                        "Skin": 64,
+                        "Speed": 44,
+                        "Strength": 49,
+                        "Special": 33
+                    }
+                }
+            }
+        },
+        "card49": {
+            "name": "Card 49",
+            "total_in_deck": 2,
+            "variations": {
+                "1": {
+                    "name": "Saldagia",
+                    "stats": {
+                        "Head": 28,
+                        "Heart": 49,
+                        "Temper": 37,
+                        "Skin": 40,
+                        "Speed": 63,
+                        "Strength": 67,
+                        "Special": 40
+                    }
+                },
+                "2": {
+                    "name": "Bolashki",
+                    "stats": {
+                        "Head": 55,
+                        "Heart": 55,
+                        "Temper": 45,
+                        "Skin": 42,
+                        "Speed": 58,
+                        "Strength": 73,
+                        "Special": 42
+                    }
+                },
+                "3": {
+                    "name": "Greysfoler",
+                    "stats": {
+                        "Head": 43,
+                        "Heart": 62,
+                        "Temper": 40,
+                        "Skin": 52,
+                        "Speed": 51,
+                        "Strength": 35,
+                        "Special": 52
+                    }
+                }
+            }
+        },
+        "card50": {
+            "name": "Card 50",
+            "total_in_deck": 1,
+            "variations": {
+                "1": {
+                    "name": "Sashmala",
+                    "stats": {
+                        "Head": 39,
+                        "Heart": 43,
+                        "Temper": 35,
+                        "Skin": 50,
+                        "Speed": 55,
+                        "Strength": 54,
+                        "Special": 34
+                    }
+                },
+                "2": {
+                    "name": "Thundisia",
+                    "stats": {
+                        "Head": 38,
+                        "Heart": 59,
+                        "Temper": 46,
+                        "Skin": 53,
+                        "Speed": 58,
+                        "Strength": 45,
+                        "Special": 42
+                    }
+                },
+                "3": {
+                    "name": "Cloudmanger",
+                    "stats": {
+                        "Head": 23,
+                        "Heart": 64,
+                        "Temper": 32,
+                        "Skin": 60,
+                        "Speed": 49,
+                        "Strength": 56,
+                        "Special": 41
+                    }
+                }
+            }
+        }
+    }
+}
