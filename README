@@ -1,11 +1,19 @@
-This project adapts the Beastmaker game from Garth Nix's Seventh Tower series. Some changes were made from the 
-source text, which are explained in the lore notes file. Meanwhile, notes about how the game was implemented and
-the reasons for descisions made are in the technical notes file. No infringements intended.
+# Beastmaker Game Adaptation
 
-How to Run:
+This project adapts the Beastmaker game from Garth Nix's *Seventh Tower* series. Some changes were made from the 
+source text, which are explained in the **lore notes** file. Meanwhile, notes about how the game was implemented and
+the reasons for decisions made are in the **technical notes** file. No infringements intended.
 
-To play a game, download and unzip the codebase and open the command line interface (cmd on windows).
-Navigate to the folder and run the run.py file.
+---
+
+## How to Run
+
+To play a game:
+
+1. **Download and unzip** the codebase.
+2. **Open the command line interface** (cmd on Windows).
+3. **Navigate to the folder** containing the files.
+4. Run the game using: run the run.py file.
 There are places for 3 options - which scoring system to use (p or b for points or battle), 
 and who the players should be (s for static AI, m for monte carlo ai, h for human).
 For example, "python run.py p s h" would start a game using points socring with a static AI playing first
