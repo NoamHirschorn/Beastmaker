@@ -10,10 +10,7 @@ the reasons for decisions made are in the **technical notes** file. No infringem
 
 To play a game:
 
-1. **Download and unzip** the codebase.
-2. **Open the command line interface** (cmd on Windows).
-3. **Navigate to the folder** containing the files.
-4. Run the game using:
+use the command
    ```sh
    python run.py <scoring_system> <player_A> <player_B>
 ### `<scoring_system>`:
