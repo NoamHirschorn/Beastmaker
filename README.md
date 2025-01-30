@@ -15,7 +15,7 @@ To play a game:
 3. **Navigate to the folder** containing the files.
 4. Run the game using:
    ```sh
-   python run.py <scoring_system> <player_1> <player_2>
+   python run.py <scoring_system> <player_A> <player_B>
 ### `<scoring_system>`:
 - `p` for **points-based scoring**
 - `b` for **battle-based scoring**
